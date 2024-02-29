@@ -1,0 +1,90 @@
+html, body {
+    height: 2000px;
+    width: 100%;
+    margin: auto;
+}
+
+/* Text "Hi Name"---------------------------------------- */
+.par1 {
+    color: azure;
+    padding: 15px 90px;
+    font-size: 40px;
+    position:absolute;
+    font-family:Arial, Helvetica, sans-serif;
+}
+/* Text "Hi Name"---------------------------------------- */
+
+/* Navigation Top Right------------------------------------ */
+.navtop {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 40px;
+}
+
+.navtop-photo {
+    align-self: center;
+    margin-left: 40px;
+}
+
+.navtop-photo img {
+    border-radius: 50%;
+}
+
+.navtop-right {
+    margin-right: 50px;
+    align-self: center;
+    font-size: 15px;
+}
+
+.navtop-right a {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px 30px;
+    text-decoration: none;
+    border: 1px solid;
+}
+/* Navigation Top Right------------------------------------ */
+
+/* Banner------------------------------------------------- */
+.banner {
+    margin-bottom: 50px;
+}
+/* Banner------------------------------------------------- */
+
+
+/* VACATION------------------------------------------------ */
+.vacation {
+    display: flex;
+    margin: 60px 0 100px 40px;
+}
+
+.vac {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 90px;
+}
+
+.vacation img, h2 {
+    border-radius: 50%;
+    padding: 0 50px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* VACATION------------------------------------------------ */
+
+/* FORM----------------------------------------------------- */
+.msgus {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 0 20px 90px;
+}
+
+form {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin: 0 700px 0 90px;
+}
+
+.label {
+    margin-right: 50px;
+}
+
